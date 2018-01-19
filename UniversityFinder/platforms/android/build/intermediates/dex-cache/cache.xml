@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/manuel/.android/build-cache/2f6de64e56093a6eba0c7ac2f0209891306087cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="49743d94bd8f62b64049c3e3065c18598ce2ca7f">
+        <dex dex="/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_023614f3b9e97ffb15e743fd564fb3486add1cca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manuel/.android/build-cache/799d3a5323446d889eb1ed8675a062aa494d11bc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_5ec0eb58d49778fe3c6ac13f6da72f89a8f464d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manuel/.android/build-cache/f05c5a9feeff8a203dfc3a54d00d43ffb6a68815/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="453427e529ccd47ef859c7d739a59ab32f7f14ee">
+        <dex dex="/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_eb89064c316fd9c212a0dd0c55f8a1bba4db079f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manuel/.android/build-cache/6caeba5c6f1ad1c6116d70a098ed1246ce54afd8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f32a31f3449f318d8f76b627644a19531285a0d6">
+        <dex dex="/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_1d2b1d4f44c5f221e633401b6dd3b867a310ebbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manuel/.android/build-cache/a6bfe4c15146f74d411662106937ab7a4f372e0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8f34896233f3fe6ecb75025e06b33980cee8239a">
+        <dex dex="/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_348c9b0ffbcfd281f9632359328c9def90384ace.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manuel/.android/build-cache/0b88f7e97effee89f01a179b22106c0645e6de49/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_669217bf372c6282442c09f3a140739cc40d44b3.jar" />
+    </item>
+
+</items>

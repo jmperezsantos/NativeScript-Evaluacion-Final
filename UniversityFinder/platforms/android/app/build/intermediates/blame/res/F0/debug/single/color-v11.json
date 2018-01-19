@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/manuel/.android/build-cache/dee6ba317a73ac45a5b1bc149b345d728ac34f0c/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/manuel/.android/build-cache/dee6ba317a73ac45a5b1bc149b345d728ac34f0c/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

@@ -1,0 +1,22 @@
+<ActionBar title="Buscador de universidades"></ActionBar>
+
+<StackLayout>
+    
+    <SearchBar hint="Buscar Universidad" [text]="searchPhrase" (submit)="onSubmit($event)" (textChange)="onTextChanged($event)"></SearchBar>
+
+    <Label class="h3 p-15" text="Busca universidades en tu ubicación" textWrap="true" horizontalAlignment="center"></Label>
+
+    <Button class="btn btn-primary btn-active" id="button" text="Ubicarme" (tap)="onLocate()"></Button>
+
+    <ListView [items]="universities" *ngIf="universities.length > 0">
+        <ng-template let-item="item" let-odd="odd" let-even="even">
+            <StackLayout [class.odd]="odd" [class.even]="even">
+                <Label [text]='item.name'></Label>
+                <Label [text]='item.country'></Label>
+                <Label [text]='item.web_pages[0]'></Label>
+            </StackLayout>
+        </ng-template>
+    </ListView>
+</StackLayout>
+
+<ActivityIndicator row="1" #activityIndicator busy={{isLoading}} (busyChange)="onBusyChanged($event)" width="100" height="100" class="activity-indicator"></ActivityIndicator>

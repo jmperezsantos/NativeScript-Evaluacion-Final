@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/manuel/.android/build-cache/45d102666e908d94f9d5929862adaa60f340be4d/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/manuel/.android/build-cache/45d102666e908d94f9d5929862adaa60f340be4d/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-ldpi/background.png",
+        "source": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/src/main/res/drawable-ldpi/background.png"
+    },
+    {
+        "merged": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-ldpi/logo.png",
+        "source": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-ldpi/icon.png",
+        "source": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/src/main/res/drawable-ldpi/icon.png"
+    }
+]
