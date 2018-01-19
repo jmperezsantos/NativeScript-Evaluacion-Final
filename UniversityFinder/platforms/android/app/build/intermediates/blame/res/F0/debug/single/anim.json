@@ -16,12 +16,12 @@
         "source": "/Users/manuel/.android/build-cache/dee6ba317a73ac45a5b1bc149b345d728ac34f0c/output/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/manuel/.android/build-cache/dee6ba317a73ac45a5b1bc149b345d728ac34f0c/output/res/anim/abc_slide_out_top.xml"
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_fade_in.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/c8bc303b9b498ee0862a7a6ce8bdbc1e0e98cca8/output/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/manuel/.android/build-cache/dee6ba317a73ac45a5b1bc149b345d728ac34f0c/output/res/anim/abc_slide_in_bottom.xml"
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/a954338aa188847fea644a25acf4a4453272a9c8/output/res/anim/design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_shrink_fade_out_from_bottom.xml",
@@ -40,6 +40,46 @@
         "source": "/Users/manuel/.android/build-cache/45d102666e908d94f9d5929862adaa60f340be4d/output/res/anim/design_bottom_sheet_slide_in.xml"
     },
     {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/a954338aa188847fea644a25acf4a4453272a9c8/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/c8bc303b9b498ee0862a7a6ce8bdbc1e0e98cca8/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/c8bc303b9b498ee0862a7a6ce8bdbc1e0e98cca8/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/a954338aa188847fea644a25acf4a4453272a9c8/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/c8bc303b9b498ee0862a7a6ce8bdbc1e0e98cca8/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/c8bc303b9b498ee0862a7a6ce8bdbc1e0e98cca8/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/a954338aa188847fea644a25acf4a4453272a9c8/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/manuel/.android/build-cache/dee6ba317a73ac45a5b1bc149b345d728ac34f0c/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/c8bc303b9b498ee0862a7a6ce8bdbc1e0e98cca8/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/manuel/.android/build-cache/dee6ba317a73ac45a5b1bc149b345d728ac34f0c/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
         "merged": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_fade_in.xml",
         "source": "/Users/manuel/.android/build-cache/dee6ba317a73ac45a5b1bc149b345d728ac34f0c/output/res/anim/abc_fade_in.xml"
     },
@@ -52,7 +92,23 @@
         "source": "/Users/manuel/.android/build-cache/dee6ba317a73ac45a5b1bc149b345d728ac34f0c/output/res/anim/abc_popup_enter.xml"
     },
     {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/c8bc303b9b498ee0862a7a6ce8bdbc1e0e98cca8/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/c8bc303b9b498ee0862a7a6ce8bdbc1e0e98cca8/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
         "merged": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/design_snackbar_in.xml",
         "source": "/Users/manuel/.android/build-cache/45d102666e908d94f9d5929862adaa60f340be4d/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_fade_out.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/c8bc303b9b498ee0862a7a6ce8bdbc1e0e98cca8/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/c8bc303b9b498ee0862a7a6ce8bdbc1e0e98cca8/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     }
 ]

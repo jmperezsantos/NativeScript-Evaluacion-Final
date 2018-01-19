@@ -62,7 +62,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		uaoJ50OfB/I3RtJ664oDNUxvszo=
+		iy819DyASR4VYjT/A0IqDUzwA5U=
 		</data>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		y2GY0Qtgqn/QBssw6GfCYg22Jj4=
+		4qMUqM9TvcWA5oDcjhlkGNjy87I=
 		</data>
 		<key>LaunchImage-1100-Landscape-2436h@3x.png</key>
 		<data>
@@ -166,7 +166,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		SSqhWwKdq01OvO0v1IQ4nj3dwOA=
+		TNJx5vJyWVmrQJ530Y71gMewlq4=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -174,7 +174,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		KQ0CW6M8FkPLKWS/Hanj29ygIiw=
+		U6oKLXUPfFiuTVedtuDOk6PVdqk=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -202,7 +202,7 @@
 		</data>
 		<key>app/app.module.js</key>
 		<data>
-		OcXA8+qq0223qxrxoWyKY1g41RY=
+		RdF/3i3Fqs2cwfcTCCWFiy39TcY=
 		</data>
 		<key>app/app.module.ngfactory.d.ts</key>
 		<data>
@@ -210,7 +210,7 @@
 		</data>
 		<key>app/app.module.ts</key>
 		<data>
-		xzdc7YUEt2mpVfgZu/wsvlg1zXc=
+		CH65R7OrmUmq82v/PNxhENsFXQU=
 		</data>
 		<key>app/app.routing.js</key>
 		<data>
@@ -226,15 +226,15 @@
 		</data>
 		<key>app/finder/finder.component.html</key>
 		<data>
-		7vnMz5qK/iJ1TQefbiUk7XJQLHU=
+		DTAEJQBeRRNhHwe0Smjrh8yMypU=
 		</data>
 		<key>app/finder/finder.component.js</key>
 		<data>
-		OzxcyYnKZIgxCWMog2KZ87ncjrA=
+		EnH+GPcP5yyRJfqKIe3QYgd7P5A=
 		</data>
 		<key>app/finder/finder.component.ts</key>
 		<data>
-		aN4pVc1a3Nq5pujDwYe/+IgW4W0=
+		ZMQSje79B4FkdLNyLsXVCNxmpR4=
 		</data>
 		<key>app/main.aot.js</key>
 		<data>
@@ -246,11 +246,19 @@
 		</data>
 		<key>app/main.js</key>
 		<data>
-		PGODR2ZrneZar/PuVRXliQUvKVY=
+		3rE+PTTAEW80mYhEO5txhFZtN1c=
 		</data>
 		<key>app/main.ts</key>
 		<data>
-		4y8ylv8LIGm4LBv5RsavOSOiUT0=
+		x20S3Ker1zm8IMZQyxJ4xf8owXo=
+		</data>
+		<key>app/model/University.js</key>
+		<data>
+		oY0rkqlIIp8jGwbP8nUomcFEObo=
+		</data>
+		<key>app/model/University.ts</key>
+		<data>
+		/o3JDJY4bzP3VcGXybRSkR9IFDY=
 		</data>
 		<key>app/package.json</key>
 		<data>
@@ -260,9 +268,13 @@
 		<data>
 		FLR6Lt9mjb2OjziNQA10s+r8bjo=
 		</data>
-		<key>app/services/location.service.ts</key>
+		<key>app/services/networking.service.js</key>
 		<data>
-		rr6Y/Gu3My4jzMkyVIV1JEluUo0=
+		lVa07Y1ybnjqzer84/ibqEkTNwY=
+		</data>
+		<key>app/services/networking.service.ts</key>
+		<data>
+		xLdYUwbP48xQIcJA0OQaFraKuUA=
 		</data>
 		<key>app/tns_modules/@angular/animations/README.md</key>
 		<data>
@@ -33414,11 +33426,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uaoJ50OfB/I3RtJ664oDNUxvszo=
+			iy819DyASR4VYjT/A0IqDUzwA5U=
 			</data>
 			<key>hash2</key>
 			<data>
-			RhfTUCR6PGiUEqqEqbsCoGmarTLkYMtZuCz88OUQ8Tc=
+			ap5Gg5blLxKOU22EUbS9gk9TYc5Vrxyi247HIrhP8hc=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
@@ -33689,11 +33701,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SSqhWwKdq01OvO0v1IQ4nj3dwOA=
+			TNJx5vJyWVmrQJ530Y71gMewlq4=
 			</data>
 			<key>hash2</key>
 			<data>
-			tKtocjvVcs2P55RvR6uDXolE1vSBp+SGq91F3WMvkDE=
+			XL2B+cNtofA0WW+9Hf03vmm8XSoN65aGtAw8ZQHm+eY=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -33711,11 +33723,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KQ0CW6M8FkPLKWS/Hanj29ygIiw=
+			U6oKLXUPfFiuTVedtuDOk6PVdqk=
 			</data>
 			<key>hash2</key>
 			<data>
-			oQWVvaLZpQOsy1aX/vGjUiXvRZuMf6aPz6INbz/VwjM=
+			LWcyGqITnDbnQLSe6ey8Kv0mXSGxCnGmxp8s/l5PN/E=
 			</data>
 		</dict>
 		<key>app/README.md</key>
@@ -33777,11 +33789,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OcXA8+qq0223qxrxoWyKY1g41RY=
+			RdF/3i3Fqs2cwfcTCCWFiy39TcY=
 			</data>
 			<key>hash2</key>
 			<data>
-			k2q7OEF56AQ6prbI7Vr1zQFU7zuhA7NSTaX041pW6FQ=
+			cjLNu+Gq0qaDn4/w1QtkcIMj9t6UlYfJ8TvQu3dDGWM=
 			</data>
 		</dict>
 		<key>app/app.module.ngfactory.d.ts</key>
@@ -33799,11 +33811,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xzdc7YUEt2mpVfgZu/wsvlg1zXc=
+			CH65R7OrmUmq82v/PNxhENsFXQU=
 			</data>
 			<key>hash2</key>
 			<data>
-			+SMpwPGIHPxakmcPm4Zsmo5nAd5yCyhkR73vE9sAr1c=
+			C67N5Tu7GI2y1200fAclHuPqgtrQ7fb5pUHrXj4nlt4=
 			</data>
 		</dict>
 		<key>app/app.routing.js</key>
@@ -33843,33 +33855,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7vnMz5qK/iJ1TQefbiUk7XJQLHU=
+			DTAEJQBeRRNhHwe0Smjrh8yMypU=
 			</data>
 			<key>hash2</key>
 			<data>
-			M3fEq96rAkrwMK9a8DD3KR1YMNKhPbb1qSs1wnf6lLY=
+			kwy+sJVmgZiZx1xsjSu/gwsY8yAjlJEVp2IImwyv+EU=
 			</data>
 		</dict>
 		<key>app/finder/finder.component.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OzxcyYnKZIgxCWMog2KZ87ncjrA=
+			EnH+GPcP5yyRJfqKIe3QYgd7P5A=
 			</data>
 			<key>hash2</key>
 			<data>
-			lm3P9oTLFl+8BQJh7ujb1iI7QZbBCSwF1hVsW5o1X3w=
+			4zBCfCImOxHSQtR8gK6XQRgnrz+dEfZWrGH79aQ/mbk=
 			</data>
 		</dict>
 		<key>app/finder/finder.component.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aN4pVc1a3Nq5pujDwYe/+IgW4W0=
+			ZMQSje79B4FkdLNyLsXVCNxmpR4=
 			</data>
 			<key>hash2</key>
 			<data>
-			dwcwGQxM4292yT+rlYPmV3RODNQUHKKuz1XFW8GwPn0=
+			nLKXnErFLU/bgva/y/hVcxTNekVpFuHZlBvxINXG4/g=
 			</data>
 		</dict>
 		<key>app/main.aot.js</key>
@@ -33898,22 +33910,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PGODR2ZrneZar/PuVRXliQUvKVY=
+			3rE+PTTAEW80mYhEO5txhFZtN1c=
 			</data>
 			<key>hash2</key>
 			<data>
-			lFgetAEQqbFp2N9GLDPD0p19tUe3uNGWSa4sDBnjeng=
+			paaULmytw3O+vlZIHnHPrDnxCUzQXKanKMNOkFw4pkQ=
 			</data>
 		</dict>
 		<key>app/main.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4y8ylv8LIGm4LBv5RsavOSOiUT0=
+			x20S3Ker1zm8IMZQyxJ4xf8owXo=
 			</data>
 			<key>hash2</key>
 			<data>
-			r0xFSlvGESqXxJV0eT2/cTXJtKzhKH/Q0WioJp5mEQo=
+			YCzmi/uekzMn1irEs63qYJby/LdrlqlBumwVkI4mV7I=
+			</data>
+		</dict>
+		<key>app/model/University.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oY0rkqlIIp8jGwbP8nUomcFEObo=
+			</data>
+			<key>hash2</key>
+			<data>
+			3+f31XIa/nG5Q4ipOgJ41jPtv91LjyEMnCOx+ieKDDU=
+			</data>
+		</dict>
+		<key>app/model/University.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/o3JDJY4bzP3VcGXybRSkR9IFDY=
+			</data>
+			<key>hash2</key>
+			<data>
+			Zrb7hGhN9o8DTFO7Rs8CunWBiukbiE6t2tuVD1lx3RM=
 			</data>
 		</dict>
 		<key>app/package.json</key>
@@ -33938,15 +33972,26 @@
 			J9ZLrsy3/ea0s8IS2Y4VozXzgremesV/bMezwC51WsI=
 			</data>
 		</dict>
-		<key>app/services/location.service.ts</key>
+		<key>app/services/networking.service.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rr6Y/Gu3My4jzMkyVIV1JEluUo0=
+			lVa07Y1ybnjqzer84/ibqEkTNwY=
 			</data>
 			<key>hash2</key>
 			<data>
-			8H6OHrat5k5O08rCpLFs5dutvwUJyEuRye9arYWkpWo=
+			zeEERM6nZU9YY4bJD8tx0K2FHcBn4TERHi1myjE1nR0=
+			</data>
+		</dict>
+		<key>app/services/networking.service.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xLdYUwbP48xQIcJA0OQaFraKuUA=
+			</data>
+			<key>hash2</key>
+			<data>
+			JAK3JroU+xWNJ1k0vswXgjgblrNSV3AzcaHpUSoXhhE=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/README.md</key>

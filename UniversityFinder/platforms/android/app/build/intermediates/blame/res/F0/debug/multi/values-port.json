@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/incremental/mergeF0DebugResources/merged.dir/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/Users/jmperezsantos/.android/build-cache/c8bc303b9b498ee0862a7a6ce8bdbc1e0e98cca8/output/res/values-port/values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/incremental/mergeF0DebugResources/merged.dir/values-port/values-port.xml",
         "map": [
             {

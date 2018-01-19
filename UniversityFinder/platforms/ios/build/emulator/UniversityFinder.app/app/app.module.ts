@@ -3,7 +3,8 @@ import { NativeScriptModule } from "nativescript-angular/nativescript.module";
 import { AppRoutingModule } from "./app.routing";
 import { AppComponent } from "./app.component";
 import { FinderComponent } from "./finder/finder.component";
-import { LocationService } from "./services/location.service";
+import { NetworkingService } from "./services/networking.service";
+import { HttpClientModule } from "@angular/common/http";
 
 // Uncomment and add to NgModule imports if you need to use two-way binding
 // import { NativeScriptFormsModule } from "nativescript-angular/forms";
@@ -17,14 +18,15 @@ import { LocationService } from "./services/location.service";
     ],
     imports: [
         NativeScriptModule,
-        AppRoutingModule
+        AppRoutingModule,
+        HttpClientModule
     ],
     declarations: [
         AppComponent,
         FinderComponent
     ],
     providers: [
-        LocationService
+        NetworkingService
     ],
     schemas: [
         NO_ERRORS_SCHEMA

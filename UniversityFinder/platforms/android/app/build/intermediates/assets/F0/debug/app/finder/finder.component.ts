@@ -2,44 +2,55 @@ import { Component, OnInit } from "@angular/core";
 import { SearchBar } from "ui/search-bar";
 import { Location, getCurrentLocation, isEnabled, distance, enableLocationRequest } from "nativescript-geolocation";
 import { NetworkingService } from "../services/networking.service";
+import { University } from "../model/University";
+import * as dialogs from "ui/dialogs";
 
 @Component({
-    selector: 'finder',
-    templateUrl: 'finder.component.html',
-    styleUrls: ["finder.component.css"]
+    selector: "app-finder",
+    moduleId: module.id,
+    styleUrls: ["finder.component.css"],
+    templateUrl: "finder.component.html"
 })
 export class FinderComponent implements OnInit {
 
     constructor(
-        private networking:NetworkingService
+        private networking: NetworkingService
     ) {
-        this.universities = [];
-        for (var i = 0; i < 50; i++) {
-            this.universities.push({
-                id: i,
-                name: 'i ' + i
-            });
-        }
     }
 
     searchPhrase: string = '';
 
-    universities: any[] = [];
+    universities: University[] = [];
+
+    country?: string;
+
+    isLoading = false;
 
     ngOnInit() {
 
     }
 
     public onSubmit(args) {
+
         let searchBar = <SearchBar>args.object;
-        alert("You are searching for " + searchBar.text);
+
+        searchBar.dismissSoftInput();
+
+        this.performSearching();
+
     }
 
-    public onItemTap(args) {
-        console.log("------------------------ ItemTapped: " + args.index);
+    public onTextChanged(args) {
+
+        let searchBar = <SearchBar>args.object;
+
+        this.searchPhrase = searchBar.text;
+
     }
 
     onLocate() {
+
+        this.isLoading = true;
 
         if (!isEnabled()) {
 
@@ -48,7 +59,11 @@ export class FinderComponent implements OnInit {
                     this.onLocate();
                 },
                 err => {
+
                     alert("Debes dar permisos a la localización!");
+
+                    this.isLoading = false;
+
                 })
 
         } else {
@@ -59,17 +74,93 @@ export class FinderComponent implements OnInit {
                 location => {
 
                     if (location) {
-                        alert("Location: lat=" + location.latitude + " - lon=" + location.longitude);
+
+                        this.isLoading = true;
+
+                        this.networking.findCountryByLocation(
+                            location,
+                            country => {
+
+                                this.isLoading = false;
+
+                                console.log("País: " + country);
+
+                                this.country = country
+
+                                this.showDialog();
+
+                            }, () => {
+
+                                alert("Ocurrió un error al buscar País");
+
+                                this.isLoading = false;
+
+                            })
+
                     } else {
-                        alert("No hay ubicación");
+
+                        this.isLoading = false;
+
                     }
 
                 },
-                error => {
+                rejected => {
+
                     alert("Ocurrió un error al buscar última ubicación");
+
+                    this.isLoading = false;
+
                 }
                 );
+
         }
+
+    }
+
+    performSearching() {
+
+        this.isLoading = true;
+
+        this.networking.findUniversities(
+            this.searchPhrase,
+            universities => {
+
+                this.universities = universities;
+
+                this.isLoading = false;
+
+            }, () => {
+
+                alert("Ocurrió un error al consumir el servicio Web");
+
+            },
+            this.country);
+    }
+
+    showDialog() {
+
+        console.log("Showing dialog");
+
+        dialogs.action({
+            message: "Tu ubicación es: " + this.country,
+            cancelButtonText: "Cancel text",
+            actions: ["Buscar en mi ubicación", "Buscar en todo el mundo"]
+        }).then(result => {
+
+            console.log("Dialog result: " + result);
+
+            if (result == "Buscar en mi ubicación") {
+
+                this.performSearching();
+
+            } else if (result == "Buscar en todo el mundo") {
+
+                this.country = '';
+
+                this.performSearching();
+
+            }
+        });
 
     }
 

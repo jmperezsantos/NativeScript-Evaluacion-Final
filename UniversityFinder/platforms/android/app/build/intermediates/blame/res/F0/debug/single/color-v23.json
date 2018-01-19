@@ -4,12 +4,24 @@
         "source": "/Users/manuel/.android/build-cache/dee6ba317a73ac45a5b1bc149b345d728ac34f0c/output/res/color-v23/abc_tint_switch_thumb.xml"
     },
     {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/a954338aa188847fea644a25acf4a4453272a9c8/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
         "merged": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_switch_track.xml",
         "source": "/Users/manuel/.android/build-cache/dee6ba317a73ac45a5b1bc149b345d728ac34f0c/output/res/color-v23/abc_tint_switch_track.xml"
     },
     {
         "merged": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/design_tint_password_toggle.xml",
         "source": "/Users/manuel/.android/build-cache/45d102666e908d94f9d5929862adaa60f340be4d/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/c8bc303b9b498ee0862a7a6ce8bdbc1e0e98cca8/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/c8bc303b9b498ee0862a7a6ce8bdbc1e0e98cca8/output/res/color-v23/abc_tint_spinner.xml"
     },
     {
         "merged": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_edittext.xml",
@@ -36,11 +48,43 @@
         "source": "/Users/manuel/.android/build-cache/dee6ba317a73ac45a5b1bc149b345d728ac34f0c/output/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/c8bc303b9b498ee0862a7a6ce8bdbc1e0e98cca8/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/c8bc303b9b498ee0862a7a6ce8bdbc1e0e98cca8/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/c8bc303b9b498ee0862a7a6ce8bdbc1e0e98cca8/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/c8bc303b9b498ee0862a7a6ce8bdbc1e0e98cca8/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/c8bc303b9b498ee0862a7a6ce8bdbc1e0e98cca8/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/c8bc303b9b498ee0862a7a6ce8bdbc1e0e98cca8/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
         "merged": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_spinner.xml",
         "source": "/Users/manuel/.android/build-cache/dee6ba317a73ac45a5b1bc149b345d728ac34f0c/output/res/color-v23/abc_tint_spinner.xml"
     },
     {
         "merged": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_default.xml",
         "source": "/Users/manuel/.android/build-cache/dee6ba317a73ac45a5b1bc149b345d728ac34f0c/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/c8bc303b9b498ee0862a7a6ce8bdbc1e0e98cca8/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/c8bc303b9b498ee0862a7a6ce8bdbc1e0e98cca8/output/res/color-v23/abc_color_highlight_material.xml"
     }
 ]

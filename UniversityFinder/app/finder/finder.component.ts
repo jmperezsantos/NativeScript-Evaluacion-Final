@@ -3,6 +3,7 @@ import { SearchBar } from "ui/search-bar";
 import { Location, getCurrentLocation, isEnabled, distance, enableLocationRequest } from "nativescript-geolocation";
 import { NetworkingService } from "../services/networking.service";
 import { University } from "../model/University";
+import * as dialogs from "ui/dialogs";
 
 @Component({
     selector: "app-finder",
@@ -40,9 +41,9 @@ export class FinderComponent implements OnInit {
     }
 
     public onTextChanged(args) {
-        
+
         let searchBar = <SearchBar>args.object;
-        
+
         this.searchPhrase = searchBar.text;
 
     }
@@ -58,6 +59,7 @@ export class FinderComponent implements OnInit {
                     this.onLocate();
                 },
                 err => {
+
                     alert("Debes dar permisos a la localización!");
 
                     this.isLoading = false;
@@ -85,24 +87,28 @@ export class FinderComponent implements OnInit {
 
                                 this.country = country
 
-                                this.performSearching();
+                                this.showDialog();
 
                             }, () => {
 
                                 alert("Ocurrió un error al buscar País");
 
+                                this.isLoading = false;
+
                             })
 
                     } else {
-                        
+
                         this.isLoading = false;
 
                     }
 
                 },
-                error => {
+                rejected => {
 
                     alert("Ocurrió un error al buscar última ubicación");
+
+                    this.isLoading = false;
 
                 }
                 );
@@ -129,6 +135,33 @@ export class FinderComponent implements OnInit {
 
             },
             this.country);
+    }
+
+    showDialog() {
+
+        console.log("Showing dialog");
+
+        dialogs.action({
+            message: "Tu ubicación es: " + this.country,
+            cancelButtonText: "Cancel text",
+            actions: ["Buscar en mi ubicación", "Buscar en todo el mundo"]
+        }).then(result => {
+
+            console.log("Dialog result: " + result);
+
+            if (result == "Buscar en mi ubicación") {
+
+                this.performSearching();
+
+            } else if (result == "Buscar en todo el mundo") {
+
+                this.country = '';
+
+                this.performSearching();
+
+            }
+        });
+
     }
 
 }

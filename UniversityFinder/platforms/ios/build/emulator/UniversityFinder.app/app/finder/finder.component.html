@@ -1,17 +1,21 @@
 <ActionBar title="Buscador de universidades"></ActionBar>
 
-<SearchBar hint="Buscar Universidad" [text]="searchPhrase" (submit)="onSubmit($event)" color="white" textFieldBackgroundColor="red"
-    textFieldHintColor="white"></SearchBar>
+<StackLayout>
+    
+    <SearchBar hint="Buscar Universidad" [text]="searchPhrase" (submit)="onSubmit($event)" (textChange)="onTextChanged($event)"></SearchBar>
 
-<Label class="h3 p-15" text="Busca universidades en tu ubicación" textWrap="true"></Label>
+    <Label class="h3 p-15" text="Busca universidades en tu ubicación" textWrap="true" horizontalAlignment="center"></Label>
 
-<Button class="btn btn-primary btn-active" id="button" text="Ubicarme" (tap)="onLocate()"></Button>
+    <Button class="btn btn-primary btn-active" id="button" text="Ubicarme" (tap)="onLocate()"></Button>
 
-<ListView [items]="universities" (itemTap)="onItemTap($event)">
-    <ng-template let-item="item" let-i="index" let-odd="odd" let-even="even">
-        <StackLayout [class.odd]="odd" [class.even]="even">
-            <Label [text]='"index: " + i'></Label>
-            <Label [text]='"[" + item.id +"] " + item.name'></Label>
-        </StackLayout>
-    </ng-template>
-</ListView>
+    <ListView [items]="universities" *ngIf="universities.length > 0">
+        <ng-template let-item="item" let-odd="odd" let-even="even">
+            <StackLayout [class.odd]="odd" [class.even]="even">
+                <Label [text]='item.name'></Label>
+                <Label [text]='item.country'></Label>
+                <Label [text]='item.web_pages[0]'></Label>
+            </StackLayout>
+        </ng-template>
+    </ListView>
+</StackLayout>
+

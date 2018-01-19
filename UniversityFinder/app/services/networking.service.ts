@@ -36,8 +36,8 @@ export class NetworkingService {
                 success(data as Array<University>);
 
             },
-            error => {
-
+            err => {
+            
                 error();
 
             }
@@ -60,7 +60,7 @@ export class NetworkingService {
                 success(json.geonames[0].countryName);
 
             },
-            error => {
+            err => {
 
                 error();
 

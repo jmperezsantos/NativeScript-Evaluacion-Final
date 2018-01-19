@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/a954338aa188847fea644a25acf4a4453272a9c8/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
         "merged": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim-v21/design_bottom_sheet_slide_out.xml",
         "source": "/Users/manuel/.android/build-cache/45d102666e908d94f9d5929862adaa60f340be4d/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/jmperezsantos/.android/build-cache/a954338aa188847fea644a25acf4a4453272a9c8/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/anim-v21/design_bottom_sheet_slide_in.xml",

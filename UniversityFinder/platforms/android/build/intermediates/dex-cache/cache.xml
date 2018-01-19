@@ -3,57 +3,174 @@
 
     <item
         is-multidex="false"
-        jar="/Users/manuel/.android/build-cache/2f6de64e56093a6eba0c7ac2f0209891306087cd/output/jars/classes.jar"
+        jar="/Users/jmperezsantos/.android/build-cache/c8bc303b9b498ee0862a7a6ce8bdbc1e0e98cca8/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="27.0.3"
-        sha1="49743d94bd8f62b64049c3e3065c18598ce2ca7f">
-        <dex dex="/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_023614f3b9e97ffb15e743fd564fb3486add1cca.jar" />
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_a0463153f84152abbd7761454c4209e0f949bb90.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/manuel/.android/build-cache/799d3a5323446d889eb1ed8675a062aa494d11bc/output/jars/classes.jar"
+        jar="/Users/jmperezsantos/.android/build-cache/a954338aa188847fea644a25acf4a4453272a9c8/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="27.0.3"
-        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
-        <dex dex="/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_5ec0eb58d49778fe3c6ac13f6da72f89a8f464d2.jar" />
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_abb5f587322bc2fa9b8317dee5741fa2d63689f1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/manuel/.android/build-cache/f05c5a9feeff8a203dfc3a54d00d43ffb6a68815/output/jars/classes.jar"
+        jar="/Users/jmperezsantos/.android/build-cache/af4b3a37a285cb524ceb29b91189a684327099a5/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="27.0.3"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_4283016a87c16beb54d17f2f2a57a77ce57a9abe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmperezsantos/.android/build-cache/6bebea773db067aa489502b63543a482f4396a61/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
         sha1="453427e529ccd47ef859c7d739a59ab32f7f14ee">
-        <dex dex="/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_eb89064c316fd9c212a0dd0c55f8a1bba4db079f.jar" />
+        <dex dex="/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_75c252adef508801f14e9bb34cbb203660995168.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/manuel/.android/build-cache/6caeba5c6f1ad1c6116d70a098ed1246ce54afd8/output/jars/classes.jar"
+        jar="/Users/jmperezsantos/.android/build-cache/eb458b65b5e2e17b38c4186adf5be2177488a36f/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="27.0.3"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_f988065ca7305d7bd5d8683e16913401ad265a84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmperezsantos/.android/build-cache/e9ed6c1012b7fd038e66cd56acc65cd50a2c11d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_da73c4d9b52510feab63af04f3354d6418d52b78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmperezsantos/.android/build-cache/daeb31ba359a0c30a9c98e2c9d87e509c79ba95c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_0fa555de6e731f4160566df78528e50e3f4cf973.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmperezsantos/.android/build-cache/6c35abe71452a83e50f0c2abf94fd0ca0155773c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="49743d94bd8f62b64049c3e3065c18598ce2ca7f">
+        <dex dex="/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_c675d973622c53ee60745726fc66a10db4591ca5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmperezsantos/.android/build-cache/1d57a3e01bb68a207e234f1e5b405d4be3d3db4b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_6c69bf5d116680ca7111d811067c53fa17cd3e69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmperezsantos/.android/build-cache/ffa15415f46c963fc87f72e8e7fa7d4f25a76ac4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_bb490c8f7ba2703f68c1898ede30e3f04f7553ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmperezsantos/.android/build-cache/c9482c0ffb2a723ed4d0f17264d72f0dfa02b6c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
         sha1="f32a31f3449f318d8f76b627644a19531285a0d6">
-        <dex dex="/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_1d2b1d4f44c5f221e633401b6dd3b867a310ebbb.jar" />
+        <dex dex="/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_188f2a868d3fac9c17579c8d62788e7608636ece.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/manuel/.android/build-cache/a6bfe4c15146f74d411662106937ab7a4f372e0a/output/jars/classes.jar"
+        jar="/Users/jmperezsantos/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
         jumboMode="false"
         optimize="true"
-        revision="27.0.3"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/support-annotations-26.0.0-alpha1_9bb315b838ec81c39d42410d311b9c5c8547c4c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmperezsantos/.android/build-cache/b9ee936452bbdb9c0a346ca48c9e50303d016944/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_c4fba250024557505defe17431566882d0469081.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmperezsantos/.android/build-cache/3b2adc34f2f177a38cc0eaeacb3ad43cb031a77a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_a6db65ebeb6cf581f889be0fa92726f62e2afad2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmperezsantos/.android/build-cache/9269ccb4698ff915f4ffb05128c3936225c44d43/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
         sha1="8f34896233f3fe6ecb75025e06b33980cee8239a">
-        <dex dex="/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_348c9b0ffbcfd281f9632359328c9def90384ace.jar" />
+        <dex dex="/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_146869743580c953cb36e52c8f4813a87985a073.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/manuel/.android/build-cache/0b88f7e97effee89f01a179b22106c0645e6de49/output/jars/classes.jar"
+        jar="/Users/jmperezsantos/.android/build-cache/5e5b242310a5845bb58391be127bedd7a95be0a6/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="27.0.3"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_3506a3f7e6e69f9e77ff385a09de340118c623be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmperezsantos/.android/build-cache/52a6a06d0002dd8a05d0d35bfc533d909a486743/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_b5d339615f9a4fbc88eb976ad56c0ca9fb606f3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmperezsantos/.android/build-cache/15e07ecbcca6e1f0ae52b908dbd921bda8356c5b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
         sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
-        <dex dex="/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_669217bf372c6282442c09f3a140739cc40d44b3.jar" />
+        <dex dex="/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_261ee46a6f9042134b6beb216043efb24cde6316.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmperezsantos/.android/build-cache/40d12e953d3b2db7d3b35838d4a4efdd1e86e0ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_d63b678eef6046b091c083272328581c6a4f6593.jar" />
     </item>
 
 </items>

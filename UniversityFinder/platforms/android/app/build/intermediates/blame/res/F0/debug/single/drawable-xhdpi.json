@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-xhdpi/background.png",
+        "source": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/src/main/res/drawable-xhdpi/background.png"
+    },
+    {
         "merged": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-xhdpi/icon.png",
         "source": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/src/main/res/drawable-xhdpi/icon.png"
     },
@@ -8,7 +12,15 @@
         "source": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/src/main/res/drawable-xhdpi/background.png"
     },
     {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-xhdpi/icon.png",
+        "source": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/src/main/res/drawable-xhdpi/icon.png"
+    },
+    {
         "merged": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-xhdpi/logo.png",
         "source": "/Users/manuel/Desktop/NextUniversity/NativeScript/UniversityFinder/platforms/android/app/src/main/res/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-xhdpi/logo.png",
+        "source": "/Users/jmperezsantos/Documents/Github/NativeScript-Evaluacion-Final/UniversityFinder/platforms/android/app/src/main/res/drawable-xhdpi/logo.png"
     }
 ]
